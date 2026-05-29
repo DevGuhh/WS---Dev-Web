@@ -1,0 +1,12 @@
+p {
+    color: white;
+    width: 200px;
+    padding: 10px;
+    margin: 10px;
+    background-color: blue;
+}
+
+p {
+    /*Deslocamento horizontal deslocamento vertical desfoque*/
+    box-shadow: 10px 10px 10px rgb(38, 153, 192);
+}
